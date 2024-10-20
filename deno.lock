@@ -1341,6 +1341,7 @@
     "packageJson": {
       "dependencies": [
         "npm:@eslint/js@^9.13.0",
+        "npm:@react-three/drei@^9.114.6",
         "npm:@react-three/fiber@^8.17.10",
         "npm:@types/react-dom@^18.3.1",
         "npm:@types/react@^18.3.11",
