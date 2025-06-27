@@ -1,5 +1,6 @@
 import { OrbitControls, Stats } from "@react-three/drei";
 import { Canvas, ThreeElements, useFrame } from "@react-three/fiber";
+import React from "react";
 import { useRef, useState } from "react";
 import * as THREE from "three";
 
